@@ -1,5 +1,3 @@
 Mlvenv/
 venv/
-models/
-node_modules/
-.env
+*.avi
