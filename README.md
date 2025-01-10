@@ -21,6 +21,7 @@ I wanted to document the physical changes in my face over approximately 24 month
   - Left Eye (row, column in pixels)
   - Right Eye (row, column in pixels)
 - Images were resized and normalized for consistent input during training.
+<img src="https://github.com/Geetansh01/photodiary-project/blob/main/DataSetSS.jpg" alt="datasetSS" width="500"/>
 
 ## Model Details
 
